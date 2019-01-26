@@ -1,0 +1,23 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##
+"17"" x 12""",17,12,CTR1510,Vinyl-clad wood transom window,2,1
+"20-1/2"" x 12""",20.5,12,CTR1810,Vinyl-clad wood transom window,2,1
+"24-1/8"" x 12""",24.125,12,CTR2010,Vinyl-clad wood transom window,2,1
+"28-3/8"" x 12""",28.375,12,CTR2410,Vinyl-clad wood transom window,2,1
+"31-1/2"" x 12""",31.5,12,CTR2810,Vinyl-clad wood transom window,3,1
+"35-15/16"" x 12""A",35.9375,12,CTR3010,Vinyl-clad wood transom window,3,1
+"33-3/4"" x 12""",33.75,12,CTR2910,Vinyl-clad wood transom window,4,1
+"40-3/4"" x 12""",40.75,12,CTR3410,Vinyl-clad wood transom window,4,1
+"48"" x 12""A",48,12,CTR4010,Vinyl-clad wood transom window,4,1
+"56-1/2"" x 12""",56.5,12,CTR4810,Vinyl-clad wood transom window,4,1
+"62-3/4"" x 12""",62.75,12,CTR5210,Vinyl-clad wood transom window,6,1
+"71-5/8"" x 12""",71.625,12,CTR51110,Vinyl-clad wood transom window,6,1
+"61"" x 12""",61,12,CTR5110,Vinyl-clad wood transom window,6,1
+"71-7/8"" x 12""A",71.875,12,CTR6010,Vinyl-clad wood transom window,6,1
+"84-5/8"" x 12""",84.625,12,CTR7010,Vinyl-clad wood transom window,6,1
+"35-15/16"" x 12""B",35.9375,12,PTR3010,Vinyl-clad wood transom window,3,1
+"40-13/16"" x 12""",40.8125,12,PTR3510,Vinyl-clad wood transom window,3,1
+"48"" x 12""B",48,12,PTR4010,Vinyl-clad wood transom window,4,1
+"52-13/16"" x 12""",52.8125,12,PTR4510,Vinyl-clad wood transom window,4,1
+"59-7/8"" x 12""",59.875,12,PTR5010,Vinyl-clad wood transom window,5,1
+"64-13/16"" x 12""",64.8125,12,PTR5510,Vinyl-clad wood transom window,5,1
+"71-7/8"" x 12""B",71.875,12,PTR6010,Vinyl-clad wood transom window,6,1

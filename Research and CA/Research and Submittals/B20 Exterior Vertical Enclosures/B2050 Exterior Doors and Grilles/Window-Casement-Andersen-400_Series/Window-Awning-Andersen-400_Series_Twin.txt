@@ -1,0 +1,22 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##
+"48"" x 17""",48,17,AR221,Vinyl-clad wood awning window,2,2
+"56-1/2"" x 17""",56.5,17,AR2251,Vinyl-clad wood awning window,2,2
+"62-3/4"" x 17""",62.75,17,AR2281,Vinyl-clad wood awning window,3,2
+"71-5/8"" x 17""",71.625,17,AR231,Vinyl-clad wood awning window,3,2
+"48"" x 20-1/2""",48,20.5,AN221,Vinyl-clad wood awning window,2,2
+"56-1/2"" x 20-1/2""",56.5,20.5,AN2251,Vinyl-clad wood awning window,2,2
+"62-3/4"" x 20-1/2""",62.75,20.5,AN2281,Vinyl-clad wood awning window,3,2
+"71-5/8"" x 20-1/2""",71.625,20.5,AN231,Vinyl-clad wood awning window,3,2
+"48"" x 24-1/8""",48,24.125,A221,Vinyl-clad wood awning window,2,2
+"56-1/2"" x 24-1/8""",56.5,24.125,A2251,Vinyl-clad wood awning window,2,2
+"62-3/4"" x 24-1/8""",62.75,24.125,A2281,Vinyl-clad wood awning window,3,2
+"71-5/8"" x 24-1/8""",71.625,24.125,A231,Vinyl-clad wood awning window,3,2
+"48"" x 28-3/8""",48,28.375,AW221,Vinyl-clad wood awning window,2,2
+"56-1/2"" x 28-3/8""",56.5,28.375,AW2251,Vinyl-clad wood awning window,2,2
+"62-3/4"" x 28-3/8""",62.75,28.375,AW2281,Vinyl-clad wood awning window,3,2
+"71-5/8"" x 28-3/8""",71.625,28.375,AW231,Vinyl-clad wood awning window,3,2
+"56-1/2"" x 31-1/2""",56.5,31.5,AX2251,Vinyl-clad wood awning window,2,3
+"62-3/4"" x 31-1/2""",62.75,31.5,AX2281,Vinyl-clad wood awning window,3,3
+"71-5/8"" x 31-1/2""",71.625,31.5,AX231,Vinyl-clad wood awning window,3,3
+"62-3/4"" x 35-15/16""",62.75,35.9375,AXW2281,Vinyl-clad wood awning window,3,3
+"71-5/8"" x 35-15/16""",71.625,35.9375,AXW231,Vinyl-clad wood awning window,3,3
