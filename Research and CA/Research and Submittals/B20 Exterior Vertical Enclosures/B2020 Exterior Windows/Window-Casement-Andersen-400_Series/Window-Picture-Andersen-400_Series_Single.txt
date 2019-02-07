@@ -1,0 +1,46 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"35-15/16"" x 35-15/16""",35.9375,35.9375,P3030,Vinyl-clad wood picture window,3,3,3,3
+"35-15/16"" x 40-13/16""",35.9375,40.8125,P3035,Vinyl-clad wood picture window,3,3,3,3
+"35-15/16"" x 48""",35.9375,48,P3040,Vinyl-clad wood picture window,3,4,3,4
+"35-15/16"" x 52-13/16""",35.9375,52.8125,P3045,Vinyl-clad wood picture window,3,4,3,4
+"35-15/16"" x 59-7/8""",35.9375,59.875,P3050,Vinyl-clad wood picture window,3,5,3,5
+"35-15/16"" x 64-13/16""",35.9375,64.8125,P3055,Vinyl-clad wood picture window,3,5,3,5
+"35-15/16"" x 71-7/8""",35.9375,71.875,P3060,Vinyl-clad wood picture window,3,6,3,6
+"40-13/16"" x 35-15/16""",40.8125,35.9375,P3530,Vinyl-clad wood picture window,3,3,3,3
+"40-13/16"" x 40-13/16""",40.8125,40.8125,P3535,Vinyl-clad wood picture window,3,3,3,3
+"40-13/16"" x 48""",40.8125,48,P3540,Vinyl-clad wood picture window,3,4,3,4
+"40-13/16"" x 52-13/16""",40.8125,52.8125,P3545,Vinyl-clad wood picture window,3,4,3,4
+"40-13/16"" x 59-7/8""",40.8125,59.875,P3550,Vinyl-clad wood picture window,3,5,3,5
+"40-13/16"" x 64-13/16""",40.8125,64.8125,P3555,Vinyl-clad wood picture window,3,5,3,5
+"40-13/16"" x 71-7/8""",40.8125,71.875,P3560,Vinyl-clad wood picture window,3,6,3,6
+"48"" x 35-15/16""",48,35.9375,P4030,Vinyl-clad wood picture window,4,3,4,3
+"48"" x 40-13/16""",48,40.8125,P4035,Vinyl-clad wood picture window,4,3,4,3
+"48"" x 48""",48,48,P4040,Vinyl-clad wood picture window,4,4,4,4
+"48"" x 52-13/16""",48,52.8125,P4045,Vinyl-clad wood picture window,4,4,4,4
+"48"" x 59-7/8""",48,59.875,P4050,Vinyl-clad wood picture window,4,5,4,5
+"48"" x 64-13/16""",48,64.8125,P4055,Vinyl-clad wood picture window,4,5,4,5
+"48"" x 71-7/8""",48,71.875,P4060,Vinyl-clad wood picture window,4,6,4,6
+"52-13/16"" x 35-15/16""",52.8125,35.9375,P4530,Vinyl-clad wood picture window,4,3,4,3
+"52-13/16"" x 40-13/16""",52.8125,40.8125,P4535,Vinyl-clad wood picture window,4,3,4,3
+"52-13/16"" x 48""",52.8125,48,P4540,Vinyl-clad wood picture window,4,4,4,4
+"52-13/16"" x 52-13/16""",52.8125,52.8125,P4545,Vinyl-clad wood picture window,4,4,4,4
+"52-13/16"" x 59-7/8""",52.8125,59.875,P4550,Vinyl-clad wood picture window,4,5,4,5
+"52-13/16"" x 64-13/16""",52.8125,64.8125,P4555,Vinyl-clad wood picture window,4,5,4,5
+"52-13/16"" x 71-7/8""",52.8125,71.875,P4560,Vinyl-clad wood picture window,4,6,4,6
+" 59-7/8"" x 35-15/16""",59.875,35.9375,P5030,Vinyl-clad wood picture window,5,3,5,3
+" 59-7/8"" x 40-13/16""",59.875,40.8125,P5035,Vinyl-clad wood picture window,5,3,5,3
+" 59-7/8"" x 48""",59.875,48,P5040,Vinyl-clad wood picture window,5,4,5,4
+" 59-7/8"" x 52-13/16""",59.875,52.8125,P5045,Vinyl-clad wood picture window,5,4,5,4
+" 59-7/8"" x 59-7/8""",59.875,59.875,P5050,Vinyl-clad wood picture window,5,5,5,5
+" 59-7/8"" x 64-13/16""",59.875,64.8125,P5055,Vinyl-clad wood picture window,5,5,5,5
+" 59-7/8"" x 71-7/8""",59.875,71.875,P5060,Vinyl-clad wood picture window,5,6,5,6
+"64-13/16"" x 35-15/16""",64.8125,35.9375,P5530,Vinyl-clad wood picture window,5,3,5,3
+"64-13/16"" x 40-13/16""",64.8125,40.8125,P5535,Vinyl-clad wood picture window,5,3,5,3
+"64-13/16"" x 48""",64.8125,48,P5540,Vinyl-clad wood picture window,5,4,5,4
+"64-13/16"" x 52-13/16""",64.8125,52.8125,P5545,Vinyl-clad wood picture window,5,4,5,4
+"64-13/16"" x 59-7/8""",64.8125,59.875,P5550,Vinyl-clad wood picture window,5,5,5,5
+"71-7/8"" x 35-15/16""",71.875,35.9375,P6030,Vinyl-clad wood picture window,6,3,6,3
+"71-7/8"" x 40-13/16""",71.875,40.8125,P6035,Vinyl-clad wood picture window,6,3,6,3
+"71-7/8"" x 48""",71.875,48,P6040,Vinyl-clad wood picture window,6,4,6,4
+"71-7/8"" x 52-13/16""",71.875,52.8125,P6045,Vinyl-clad wood picture window,6,4,6,4
+"71-7/8"" x 59-7/8""",71.875,59.875,P6050,Vinyl-clad wood picture window,6,5,6,5

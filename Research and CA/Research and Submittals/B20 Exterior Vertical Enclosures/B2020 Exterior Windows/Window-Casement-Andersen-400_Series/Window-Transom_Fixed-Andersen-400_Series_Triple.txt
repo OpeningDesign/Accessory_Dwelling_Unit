@@ -1,0 +1,4 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##
+"61"" x 12""",61,12,CTR31810,Vinyl-clad wood transom window,2,1
+"71-7/8"" x 12""",71.875,12,CTR32010,Vinyl-clad wood transom window,2,1
+"84-5/8"" x 12""",84.625,12,CTR32410,Vinyl-clad wood transom window,2,1

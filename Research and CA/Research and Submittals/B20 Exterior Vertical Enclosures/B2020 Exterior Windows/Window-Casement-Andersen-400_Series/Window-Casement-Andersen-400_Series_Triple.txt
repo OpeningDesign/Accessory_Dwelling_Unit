@@ -1,0 +1,22 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Designation##OTHER##,Type Comments##OTHER##,. . Lights Wide##OTHER##,. . Lights High##OTHER##,Fractional Lights Wide##OTHER##,Fractional Lights High##OTHER##
+"61"" x 24-1/8""",61,24.125,CN32,Vinyl-clad wood casement window,2,2,2,2
+"61"" x 28-3/8""",61,28.375,CN325,Vinyl-clad wood casement window,2,2,2,2
+"61"" x 35-15/16""",61,35.9375,CN33,Vinyl-clad wood casement window,2,3,2,3
+"61"" x 40-13/16""",61,40.8125,CN335,Vinyl-clad wood casement window,2,3,2,3
+"61"" x 48""",61,48,CN34,Vinyl-clad wood casement window,2,4,2,4
+"61"" x 52-15/16""",61,52.9375,CN345,Vinyl-clad wood casement window,2,4,2,4
+"61"" x 59-7/8""",61,59.875,CN35,Vinyl-clad wood casement window,2,5,2,5
+"71-7/8"" x 24-1/8""",71.875,24.125,C32,Vinyl-clad wood casement window,2,2,2,2
+"71-7/8"" x 28-3/8""",71.875,28.375,C325,Vinyl-clad wood casement window,2,2,2,2
+"71-7/8"" x 35-15/16""",71.875,35.9375,C33,Vinyl-clad wood casement window,2,3,2,3
+"71-7/8"" x 40-13/16""",71.875,40.8125,C335,Vinyl-clad wood casement window,2,3,2,3
+"71-7/8"" x 48""",71.875,48,C34,Vinyl-clad wood casement window,2,4,2,4
+"71-7/8"" x 52-15/16""",71.875,52.9375,C345,Vinyl-clad wood casement window,2,4,2,4
+"71-7/8"" x 59-7/8""",71.875,59.875,C35,Vinyl-clad wood casement window,2,5,2,5
+"84-5/8"" x 24-1/8""",84.625,24.125,CW32,Vinyl-clad wood casement window,2,2,2,2
+"84-5/8"" x 28-3/8""",84.625,28.375,CW325,Vinyl-clad wood casement window,2,2,2,2
+"84-5/8"" x 35-15/16""",84.625,35.9375,CW33,Vinyl-clad wood casement window,2,3,2,3
+"84-5/8"" x 40-13/16""",84.625,40.8125,CW335,Vinyl-clad wood casement window,2,3,2,3
+"84-5/8"" x 48""",84.625,48,CW34,Vinyl-clad wood casement window,2,4,2,4
+"84-5/8"" x 52-15/16""",84.625,52.9375,CW345,Vinyl-clad wood casement window,2,4,2,4
+"84-5/8"" x 59-7/8""",84.625,59.875,CW35,Vinyl-clad wood casement window,2,5,2,5
