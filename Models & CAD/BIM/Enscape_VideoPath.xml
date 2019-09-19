@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<VideoPath version="1" easingInOut="1" shakyCam="0">
+    <Keyframes count="17">
+        <Keyframe order="0" hour="7.88571">
+            <Position x="-48.8797" y="1.83794" z="-210.437" />
+            <LookAt x="0.744929" y="0.0053637" z="-0.667123" />
+        </Keyframe>
+        <Keyframe order="1" hour="7.98763" timestampSeconds="3.08633">
+            <Position x="-33.2798" y="1.60484" z="-208.295" />
+            <LookAt x="-0.14937" y="0.0480617" z="-0.987613" />
+        </Keyframe>
+        <Keyframe order="2" hour="8.01289" timestampSeconds="6.0516">
+            <Position x="-22.8407" y="1.60484" z="-208.791" />
+            <LookAt x="-0.609061" y="0.0988719" z="-0.786936" />
+        </Keyframe>
+        <Keyframe order="3" hour="8.09591" timestampSeconds="8.99182">
+            <Position x="-18.8839" y="1.23989" z="-207.207" />
+            <LookAt x="-0.614631" y="0.102135" z="-0.782175" />
+        </Keyframe>
+        <Keyframe order="4" hour="8.5375" timestampSeconds="12.1076">
+            <Position x="-20.8795" y="1.58" z="-221.891" />
+            <LookAt x="-0.973552" y="0.181013" z="0.139395" />
+        </Keyframe>
+        <Keyframe order="5" hour="11.2571" timestampSeconds="17.8722">
+            <Position x="-10.1001" y="1.58" z="-225.712" />
+            <LookAt x="-0.957896" y="0.0831686" z="0.274806" />
+        </Keyframe>
+        <Keyframe order="6" hour="14.9655" timestampSeconds="21.0815">
+            <Position x="-26.9156" y="1.36662" z="-225.842" />
+            <LookAt x="-0.539902" y="0.314208" z="0.780884" />
+        </Keyframe>
+        <Keyframe order="7" hour="15.0594" timestampSeconds="24.0702">
+            <Position x="-36.1406" y="1.582" z="-233.996" />
+            <LookAt x="0.0216677" y="0.0560851" z="0.998191" />
+        </Keyframe>
+        <Keyframe order="8" hour="15.1343" timestampSeconds="26.9159">
+            <Position x="-49.5516" y="1.582" z="-227.244" />
+            <LookAt x="0.792547" y="0.0746407" z="0.605225" />
+        </Keyframe>
+        <Keyframe order="9" hour="7.71428" timestampSeconds="29.9957">
+            <Position x="-45.5599" y="1.582" z="-213.703" />
+            <LookAt x="0.616157" y="0.133299" z="-0.776262" />
+        </Keyframe>
+        <Keyframe order="10" hour="12.9714" timestampSeconds="33.0609">
+            <Position x="-43.4903" y="4.52303" z="-220.066" />
+            <LookAt x="0.99858" y="0.043159" z="-0.0312147" />
+        </Keyframe>
+        <Keyframe order="11" timestampSeconds="36.0537">
+            <Position x="-36.7784" y="4.7987" z="-221.576" />
+            <LookAt x="0.787648" y="0.0711421" z="0.612005" />
+        </Keyframe>
+        <Keyframe order="12" timestampSeconds="39.1547">
+            <Position x="-24.7296" y="3.35707" z="-218.463" />
+            <LookAt x="0.999577" y="-0.028891" z="0.00336277" />
+        </Keyframe>
+        <Keyframe order="13" timestampSeconds="41.9155">
+            <Position x="-20.1568" y="1.73737" z="-219.708" />
+            <LookAt x="-0.986244" y="-0.0609249" z="-0.153658" />
+        </Keyframe>
+        <Keyframe order="14" timestampSeconds="45.0063">
+            <Position x="-28.0339" y="1.92319" z="-220.361" />
+            <LookAt x="-0.974305" y="-0.186837" z="-0.125786" />
+        </Keyframe>
+        <Keyframe order="15" timestampSeconds="48.0971">
+            <Position x="-34.9478" y="1.43095" z="-220.536" />
+            <LookAt x="-0.976571" y="-0.131385" z="-0.170435" />
+        </Keyframe>
+        <Keyframe order="16" timestampSeconds="51.0256">
+            <Position x="-43.0098" y="1.53905" z="-220.655" />
+            <LookAt x="-0.993812" y="-0.10256" z="-0.0426583" />
+        </Keyframe>
+    </Keyframes>
+</VideoPath>
